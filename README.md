@@ -6,9 +6,9 @@
 - ```php artisan serve```
 
 ------------
-Default admin is: admin@mail.com/password
-Blog homepage: ```http://localhost:8000```
-Admin Panel: ```http://localhost/dashboard```
+- Default admin is: admin@mail.com/password
+- Blog homepage: ```http://localhost:8000```
+- Admin Panel: ```http://localhost/dashboard```
 ------------
 ## Simple REST Endpoints
 - ```http://localhost/api/posts```
