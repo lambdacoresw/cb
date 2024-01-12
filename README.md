@@ -13,3 +13,6 @@ Admin Panel: ```http://localhost/dashboard```
 ## Simple REST Endpoints
 - ```http://localhost/api/posts```
 - ```http://localhost/api/categories```
+
+## Live Demo
+For live demo: [demo](https://lambdacoresw.site/cb/public/)
